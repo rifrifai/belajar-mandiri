@@ -1,0 +1,18 @@
+/* Just make it for the fourt merge */
+
+.id {
+    background-color: green;
+    color: white;
+    padding: 5px;
+    margin: 1px;
+    box-sizing: border-box;
+}
+
+.home {
+    background-color: white;
+    padding-left: 10px;
+    margin-top: 10px;
+    color: aqua;
+    text-align: center;
+    border-radius: 10px;
+}
